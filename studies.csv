@@ -1,0 +1,12 @@
+﻿Year,Month,Day,Time,End Year,End Month,End Day,End Time,Display Date,Headline,Text,Media,Media Caption
+2016,1,21,,,,,,,Study1,Study one looked at….,../static/images/Test1.png,Test Caption
+2016,12,10,,1852,11,27,,,Study2,Study two enrolled,../static/images/Test2.png,Test Caption
+2017,3,14,,,,,,,Study3,Study 3 did this,../static/images/Test3.png,Test Caption
+2017,7,2,,1946,,,,,Study4,Study 4 did this,../static/images/Test4.png,Test Caption
+2018,6,5,,,,,,,Study5,What about study 5,../static/images/Test5.png,Test Caption
+2018,5,15,,,,,,,Study6,Here's some info on study 6,../static/images/Test1.png,Test Caption
+2019,6,10,,,,,,,Study7,Study 7 did this,../static/images/Test2.png,Test Caption
+2019,8,14,,1962,,,,,Study8,Study 8 did this,../static/images/Test3.png,Test Caption
+2020,2,8,,,,,,,Study9,This is a pain to  type out,../static/images/Test4.png,Test Caption
+2020,7,6,,,,,,,Study10,Study 10 looked at,../static/images/Test5.png,Test Caption
+2020,9,20,,,,,,,Study11,Study 11 looked at,../static/images/Test1.png,Test Caption
